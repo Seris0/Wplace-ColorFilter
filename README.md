@@ -1,6 +1,7 @@
 # ColorFilter
 
-Real-time color detection overlay tool.
+
+Color detection overlay tool.
 
 **Note:** This is a quick script made to assist until Blue Marble adds this feature natively.
 
@@ -24,4 +25,5 @@ python ColorFilter.py
 
 
 https://github.com/user-attachments/assets/ccdf351d-9ae6-4855-af06-e612489d89c8
+
 
