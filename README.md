@@ -4,6 +4,7 @@
 Color detection overlay tool.
 
 **Note:** This is a quick script made to assist until Blue Marble adds this feature natively.
+**This script takes a screenshot of the current screen and detects the pixels of the selected color. It has no direct interaction with the website, so it’s something completely and 100% impossible to detect, even if the developers forbid such a function.**
 
 ## Installation
 
@@ -25,5 +26,6 @@ python ColorFilter.py
 
 
 https://github.com/user-attachments/assets/ccdf351d-9ae6-4855-af06-e612489d89c8
+
 
 
